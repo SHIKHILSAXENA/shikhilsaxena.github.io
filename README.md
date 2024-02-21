@@ -4,6 +4,6 @@
 
 👨‍💻 Backend : J2EE, JAVA, SpringBoot 
 
-💬 Database : MySQL, Oracle DB, PostgreSQL
+💬 Database : MySQL, Oracle DB, PostgreSQL,ETL
 
 📫 Languages : English , Hindi
